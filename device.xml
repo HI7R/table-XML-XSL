@@ -1,0 +1,22 @@
+<?xml version = "1.0"?>
+<?xml-stylesheet type = "text/xsl" href = "device.xsl"?> 
+<class> 
+   <devices>
+      <Type>Mechanical</Type> 
+      <Logi>Lightspeed GL Clicky</Logi> 
+      <Razer>Razer BlackWidow V3</Razer> 
+      <Corsair>None</Corsair>
+   </devices> 
+   <devices> 
+      <Type>Optical</Type> 
+      <Logi>None</Logi> 
+      <Razer>Huntsman V2 Analog</Razer> 
+      <Corsair>None</Corsair>
+   </devices> 
+   <devices>
+      <Type>Membrane</Type> 
+      <Logi>Logitech Craft</Logi> 
+      <Razer>Razer Cynosa Chroma</Razer> 
+      <Corsair>Cougar Vantar</Corsair> 
+   </devices> 
+</class>
